@@ -15,7 +15,7 @@
 <br/> 
 
 <h3>About us</h3>
-<img src='https://github.com/karkranikhil/RestauranteConfusion/raw/master/snapshots/aboutUs.png'/>
+<img src='https://github.com/BirlaPrasoon/RestauranteConfusion/raw/master/snapshots/aboutUs.png'/>
 <br/> 
 
 <h3>Menu List</h3>
